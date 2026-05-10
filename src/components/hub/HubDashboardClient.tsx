@@ -25,7 +25,7 @@ const USEFUL_LINKS = [
   { label: "Employee Handbook (SHRM Template)", href: "https://www.shrm.org/content/dam/en/shrm/business-solutions/SHRM-Sample-Employee-Handbook-2023.docx" },
   { label: "OGP SharePoint Site", href: "#" },
   { label: "DOL Employment Law Guide", href: "https://webapps.dol.gov/elaws/elg/" },
-  { label: "OSHA Outreach Training (10/30-hr)", href: "https://www.osha.gov/training/outreach" },
+  // { label: "OSHA Outreach Training (10/30-hr)", href: "https://www.osha.gov/training/outreach" },
 ];
 
 const LABOR_LAW_POSTERS = [
@@ -41,10 +41,10 @@ const LABOR_LAW_POSTERS = [
   { label: "TX Workplace Violence Notice (2024)", href: "https://www.twc.texas.gov/sites/default/files/fdcm/docs/workplace-violence-poster-twc.pdf", tag: "Texas" },
 ];
 
-const SAFETY_RESOURCES = [
-  { label: "OSHA H2S Safety — Oil & Gas eTool", href: "https://www.osha.gov/etools/oil-and-gas/general-safety/h2s-monitoring" },
-  { label: "OSHA H2S Fact Sheet (PDF)", href: "https://www.osha.gov/sites/default/files/publications/OSHA4204.pdf" },
-  { label: "Find a Certified OSHA Trainer", href: "https://www.osha.gov/training/outreach/find-a-trainer" },
+//const SAFETY_RESOURCES = [
+  //{ label: "OSHA H2S Safety — Oil & Gas eTool", href: "https://www.osha.gov/etools/oil-and-gas/general-safety/h2s-monitoring" },
+  //{ label: "OSHA H2S Fact Sheet (PDF)", href: "https://www.osha.gov/sites/default/files/publications/OSHA4204.pdf" },
+  //{ label: "Find a Certified OSHA Trainer", href: "https://www.osha.gov/training/outreach/find-a-trainer" },
 ];
 
 const PAYROLL_URL = "https://signin.adp.com/";

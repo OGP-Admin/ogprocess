@@ -20,7 +20,7 @@ const en: UiTree = {
     hero: {
       scroll: "Scroll to explore",
       headline: "Energy Engineering for a Changing World",
-      sub: "From feasibility to commissioning — OGP delivers full lifecycle process engineering for upstream, midstream, and downstream energy projects worldwide.",
+      sub: "From feasibility to commissioning — OGP delivers full lifecycle engineering for upstream, midstream, and downstream energy projects worldwide.",
       discuss: "Discuss Your Project",
       capabilities: "View Capabilities →",
     },
@@ -28,12 +28,12 @@ const en: UiTree = {
       strategy: "Strategy",
       strategyH: "End-to-End Expertise Across the Energy Lifecycle",
       strategyP:
-        "OGP delivers process engineering from strategic advisory through commissioning support — bringing senior-level discipline to every project phase for energy operators, EPC contractors, and project developers worldwide.",
+        "OGP delivers multi-discipline engineering from strategic advisory through commissioning support — bringing senior-level discipline to every project phase for energy operators, EPC contractors, and project developers worldwide.",
       engineering: "Engineering",
       indLabel: "Upstream · Midstream · Downstream",
       indTitle: "Industry Coverage",
       indSub:
-        "Technical depth across the value chain — plus process support for the energy transition.",
+        "Technical depth across the value chain — plus multi-discipline support for the energy transition.",
       upstream: [
         "Separation, desalting & stabilization",
         "Sweetening and dehydration",
@@ -331,21 +331,21 @@ const es: UiTree = {
   home: {
     hero: {
       scroll: "Desplácese para explorar",
-      headline: "Ingeniería de proceso integral para proyectos energéticos complejos",
-      sub: "De la factibilidad al comisionamiento — OGP ofrece ingeniería de proceso de ciclo de vida completo para proyectos upstream, midstream y downstream en todo el mundo.",
+      headline: "Ingeniería multi-disciplinaria integral para proyectos energéticos complejos",
+      sub: "Desde estudios de factibilidad a comisionamdo — OGP ofrece soporte para la duración de los proyectos upstream, midstream y downstream en todo el mundo.",
       discuss: "Hablemos de su proyecto",
       capabilities: "Ver capacidades →",
     },
     timeline: {
       strategy: "Estrategia",
-      strategyH: "Experiencia integral a lo largo del ciclo de vida energético",
+      strategyH: "Experiencia multi-disciplinaria a lo largo del ciclo de vida",
       strategyP:
-        "OGP brinda ingeniería de proceso desde la asesoría estratégica hasta el apoyo en comisionamiento — con disciplina de nivel senior en cada fase del proyecto para operadores energéticos, contratistas EPC y desarrolladores de proyectos en todo el mundo.",
+        "OGP ofrece ingeniería multi-disciplinaria desde la asesoría estratégica hasta el comisionado — con alta experiencia en cada fase del proyecto para operadores energéticos, contratistas EPC y desarrolladores de proyectos en todo el mundo.",
       engineering: "Ingeniería",
       indLabel: "Upstream · Midstream · Downstream",
       indTitle: "Cobertura sectorial",
       indSub:
-        "Profundidad técnica en toda la cadena de valor — más apoyo de proceso para la transición energética.",
+        "Profundidad técnica en toda la cadena de valor — más apoyo para la transición energética.",
       upstream: [
         "Separación, desalado y estabilización",
         "Endulzamiento y deshidratación",
@@ -353,25 +353,25 @@ const es: UiTree = {
         "Bombeo, compresión y almacenamiento",
       ],
       upstreamDesc:
-        "Instalaciones cercanas al pozo — donde la confiabilidad marca el tono de todo lo downstream.",
+        "Instalaciones de campo — donde la confiabilidad marca el tono de todo aguas abajo.",
       midstream: [
-        "Procesamiento de gas y recuperación de NGL",
-        "Tratamiento y compresión en ductos",
-        "Instalaciones e interfaces LNG",
-        "Ingeniería de estaciones de compresión",
+        "Procesamiento de gas y recuperación de GNL",
+        "Tratamiento y compresión de gas",
+        "Instalaciones e interfaces GNL",
+        "Ingeniería de estaciones de compresión y bombeo",
       ],
-      midstreamDesc: "Activos de ductos y procesamiento que conectan la producción con el mercado.",
+      midstreamDesc: "Oleoductos y Gasoductos que conectan la producción con el mercado.",
       downstream: [
-        "Refinación de petróleo (licenciada y arte abierto)",
-        "Servicios y fuera de planta",
-        "Eliminación de cuellos de botella y optimización de rendimiento",
+        "Refinación de petróleo (tecnologías licenciadas y no licenciadas)",
+        "Servicios y Balance de Planta",
+        "Eliminación de cuellos de botella y optimización",
       ],
       downstreamDesc:
         "Refinación, tratamiento y balance de planta — donde la integración entre unidades y servicios es crítica.",
       etLabel: "Transición energética",
-      etTitle: "Ingeniería para la transición energética",
+      etTitle: "Ingeniería para la transición a renovables y reciclaje",
       etSub:
-        "OGP aporta experiencia en proceso a organizaciones que desarrollan tecnologías energéticas y de combustibles de próxima generación — junto con el trabajo tradicional de petróleo y gas.",
+        "OGP aporta experiencia multi-disciplinaria a organizaciones que desarrollan tecnologías energéticas y de combustibles de próxima generación — junto con el trabajo tradicional de petróleo y gas.",
       etTiles: [
         { name: "Diésel renovable y SAF", detail: "Ingeniería de coprocesamiento y unidades dedicadas" },
         { name: "Producción de hidrógeno", detail: "Apoyo de proceso en SMR, ATR y electrólisis" },
@@ -409,79 +409,79 @@ const es: UiTree = {
       diffs: [
         {
           title: "Experiencia integral",
-          body: "Del estudio de factibilidad al recorrido de comisionamiento — una sola responsabilidad en cada fase del proyecto.",
+          body: "Del estudio de factibilidad al recorrido de comisionado — un solo punto de contacto para todo el proyecto.",
         },
         {
           title: "Liderazgo senior",
-          body: "Nuestros socios aportan más de 200 años combinados de experiencia en ingeniería de proceso en proyectos energéticos mayores.",
+          body: "Nuestro equipo aporta más de 200 años combinados de experiencia en ingeniería en proyectos energéticos.",
         },
         {
           title: "Experiencia global",
-          body: "Proyectos en EE. UU., América del Norte, América del Sur, Oriente Medio, Europa y África.",
+          body: "Proyectos en EE. UU., América del Norte, América del Sur, Medio Oriente, Europa, y África.",
         },
         {
-          title: "Entrega multidisciplinaria",
-          body: "Proceso, mecánica, eléctrica, civil, instrumentación y tuberías — coordinados con adquisiciones y revisión de construcción en un solo equipo.",
+          title: "Equipo multidisciplinario",
+          body: "Proceso, mecánica, eléctrica, civil, instrumentación, y tuberías — en coordinación con procura y construcción en un solo equipo.",
         },
       ],
       clientsLabel: "Clientes",
       whoTitle: "A quién servimos",
       audiences: [
         {
-          title: "Operadores energéticos",
-          body: "Ingeniería del propietario, factibilidad y supervisión de proceso para activos greenfield y brownfield.",
+          title: "Operadores",
+          body: "Asesoría tecnica, estudios de factibilidad, supervisión de operaciones para activos greenfield y brownfield.",
         },
         {
           title: "Contratistas EPC",
-          body: "Apoyo especializado de proceso, alineación de interfaces y revisión de entregables en las fases de ingeniería.",
+          body: "Apoyo especializado de proceso y otras disciplinas, alineación de interfaces y revisión de entregables durante las fases de ingeniería.",
         },
         {
-          title: "Desarrolladores e inversionistas",
-          body: "Revisión técnica independiente, evaluación de riesgos y narrativa de proceso para presentaciones a prestamistas o directorios.",
+          title: "Inversionistas",
+          body: "Revisión técnica independiente, evaluación de riesgos y narrativa de proceso para financiamiento.",
         },
       ],
-      commissioning: "Comisionamiento",
+      commissioning: "Comisionado",
       globalLabel: "Alcance global",
       globalTitle: "Experiencia global. Normas locales. Entrega universal.",
       globalP:
-        "El equipo de ingeniería senior suma más de 200 años de experiencia internacional combinada. OGP ha entregado ingeniería de proceso en seis regiones — operando con eficacia en marcos regulatorios y entornos diversos.",
+        "El equipo de ingeniería senior suma más de 200 años de experiencia internacional combinada. OGP ha entregado ingeniería de proceso en todas regiones — operando con eficacia en marcos regulatorios y entornos diversos.",
       regions: [
         "Estados Unidos",
         "América del Norte",
         "América del Sur",
-        "Oriente Medio",
+        "Medio Oriente",
         "Europa",
         "África",
       ],
       ctaTitle: "¿Listo para definir su proceso?",
       ctaSub:
-        "OGP aporta disciplina de ingeniería de proceso de nivel senior a proyectos energéticos complejos. Cuéntenos su alcance — responderemos con prontitud.",
+        "OGP aporta disciplinas de ingeniería de nivel senior a proyectos energéticos complejos. Cuéntenos su alcance — responderemos con prontitud.",
       ctaDiscuss: "Hablemos de su proyecto",
       ctaView: "Ver capacidades",
     },
   },
   about: {
     label: "Nosotros",
-    headline: "Ingeniería de proceso liderada por senior — del concepto al comisionamiento.",
-    p1: "Oil & Gas Processing, LLC es una consultora de ingeniería de proceso que apoya a propietarios, contratistas EPC y desarrolladores de proyectos en todo el ciclo de vida del activo — desde la factibilidad estratégica hasta el apoyo en comisionamiento.",
+    headline: "Ingeniería multi-disciplinaria iderada por senior — de concepto a comisionado.",
+    p1: "Oil & Gas Processing, LLC es una consultora de ingeniería que apoya a propietarios, contratistas EPC y desarrolladores de proyectos en todo el ciclo de vida del activo — desde la factibilidad estratégica hasta el apoyo en comisionamiento.",
     p2: "Entregamos estudios de factibilidad, FEED, ingeniería de detalle, apoyo a adquisiciones y asesoría en construcción con la misma atención senior sin importar la escala del proyecto.",
     missionL: "Misión",
     mission:
-      "Entregar ingeniería de proceso precisa y liderada por senior que haga realidad proyectos energéticos complejos — a tiempo, en alcance y con plena responsabilidad técnica.",
+      "Entregar ingeniería precisa y liderada por expertos que haga realidad proyectos energéticos complejos — alcance bien definido, entrega a tiempo, y con plena responsabilidad técnica.",
     visionL: "Visión",
     vision:
-      "Ser el socio independiente de ingeniería de proceso más confiable para la industria energética global — reconocidos por experiencia senior, alcance global y entrega integral.",
+      "Ser el socio independiente de ingeniería más confiable para la industria energética global — reconocidos por experiencia, alcance global y entrega integral.",
     globalTitle: "Experiencia global",
     globalP1:
       "Nuestro equipo de ingeniería senior aporta más de 200 años combinados de experiencia en petróleo, gas, refinación y combustibles renovables en Estados Unidos, América del Norte, América del Sur, Oriente Medio, Europa y África.",
     globalP2:
-      "Esta exposición global permite a OGP operar con eficacia en marcos regulatorios, entornos operativos y escalas de proyecto diversas.",
+      "Esta exposición global permite a OGP operar con eficacia en marcos regulatorios, entornos operativos y diversas tamaños de proyecto.",
     whoTitle: "Quiénes somos",
     whoP:
       "OGP está dirigida por ingenieros de proceso senior con décadas de experiencia a nivel principal en proyectos de capital complejos. No es personal junior respaldado por supervisión senior — son ingenieros senior haciendo el trabajo directamente en cada encargo, sin importar el tamaño del proyecto.",
     standardsTitle: "Normas y cumplimiento",
     standardsP:
-      "OGP aplica normas de ingeniería de EE. UU. e internacionales en todas las fases del proyecto — incluidos marcos ASME, API, NFPA e IEC — y cuenta con experiencia en entornos regulatorios y de permisos internacionales diversos.",
+      "OGP aplica normas de ingeniería de EE. UU. e internacionales en todas las fases del proyecto — incluyendo ASME, API, NFPA e IEC — y cuenta con experiencia en entornos regulatorios y de permisos internacionales diversos.",
     explore: "Explorar servicios →",
     imageAlt: "Vista nocturna panorámica de la refinería Satorp",
   },
@@ -489,11 +489,11 @@ const es: UiTree = {
     label: "Servicios",
     title: "Lo que entregamos.",
     intro:
-      "Cuatro pilares de servicio integrados — desde la asesoría estratégica hasta la optimización del desempeño — que cubren proyectos upstream, midstream y downstream en todo el mundo.",
+      "Cuatro pilares de servicio integrados — desde la asesoría estratégica hasta la optimización de rendimiento — que cubren proyectos upstream, midstream y downstream en todo el mundo.",
     energyLabel: "Transición energética",
     energyTitle: "Ingeniería para la transición energética",
     energyIntro:
-      "OGP aporta experiencia en proceso a organizaciones que desarrollan tecnologías energéticas y de combustibles de próxima generación — junto con el trabajo tradicional de petróleo y gas.",
+      "OGP tambien cuenta con experiencia desarrollando tecnologías para combustibles renovables y de róxima generación — junto con el trabajo tradicional de petróleo y gas.",
     industryLabel: "Cobertura sectorial",
     industryTitle: "Upstream · Midstream · Downstream",
     disciplinesLabel: "Disciplinas de ingeniería",
@@ -519,9 +519,9 @@ const es: UiTree = {
       projectType: "Tipo de proyecto",
       stage: "Etapa del proyecto",
       geography: "Geografía / región",
-      geographyPh: "p. ej. Costa del Golfo de EE. UU., Oriente Medio, global",
+      geographyPh: "ej. Costa del Golfo de EE. UU., Oriente Medio, global",
       message: "Mensaje",
-      messagePh: "Alcance, ubicación, plazo y contexto relevante.",
+      messagePh: "Alcance, ubicación, plazo y contexto.",
       send: "Enviar mensaje",
       sent: "Si no se abrió su cliente de correo, escriba a",
       optGeneral: "Consulta general",

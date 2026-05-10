@@ -6,7 +6,7 @@ import { useI18n } from "@/i18n/LanguageContext";
 const leadership = [
   {
     name: "Tariq Al-Omari",
-    title: "Chief Executive Officer",
+    title: "Principal Process Engineer",
     bio: "Tariq Al-Omari brings more than 25 years of process engineering experience across oil, gas, refining, and petrochemical projects worldwide. His career spans principal and senior engineering roles at CB&I Lummus, Worley Parsons Resources and Energy, PDVSA, Chemex Global, and STRIKE, with project experience in the United States, the UAE, Ecuador, and the U.S. Virgin Islands.\n\nTariq has deep technical expertise in gas processing and compression, process simulation, and project execution across the full asset lifecycle — from early feasibility through commissioning. He brings disciplined process engineering and a client-first approach to every engagement.",
   },
 ];
